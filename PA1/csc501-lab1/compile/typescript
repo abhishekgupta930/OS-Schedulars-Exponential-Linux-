@@ -1,0 +1,584 @@
+Script started on Fri 27 Sep 2019 05:55:29 PM EDT
+]0;agupta38@vm19-3:/afs/unity.ncsu.edu/users/a/agupta38/OS/PA1/csc501-lab1/compile[?1034h[agupta38@vm19-3 compile](vmhost1)$ make run
+
+(process:30300): GLib-[1;33mWARNING[0m **: [34m17:55:33.676[0m: gmem.c:489: custom memory allocation vtable not supported
+c[?7l[2J[0mSeaBIOS (version 1.11.0-2.el7)
+
+
+iPXE (http://ipxe.org) 00:03.0 C980 PCI2.10 PnP PMM+07F95620+07EF5620 C980
+Press Ctrl-B to configure iPXE (PCI 00:03.0)...                                                                               
+
+
+Booting from ROM..pcibios_init : PCI BIOS revision 2.10 entry at 0xfd225
+pci_init: PCI BIOS initialization succeeded
+
+
+Xinu Version (CSC501 1-2009 base) #1 (agupta38@vm19-3.vcl) Fri Sep 27 17:54:37 EDT 2019
+
+16777216 bytes real mem
+78575 bytes Xinu code
+clock enabled
+New Process pid(49) created ....
+Please Input:
+3
+Get 3
+New Process pid(48) created ....
+1.The value of Process Id = 49 | Max GoodNess = 5 | Next = 48 | Goodness = 20| State = 1  
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 5| State = 1  
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 5| State = 1  
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 5| State = 1  
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 5| State = 1  
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 5| State = 1  
+In New Epoch
+
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 3  
+In New Epoch
+
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 3  
+In New Epoch
+
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 3  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 20 | Next = 49 | Goodness = 0| State = 1  
+New Process pid(47) created ....
+1.The value of Process Id = 49 | Max GoodNess = 50 | Next = 47 | Goodness = 40| State = 1  
+B1.The value of Process Id = 47 | Max GoodNess = 39 | Next = 49 | Goodness = 50| State = 1  
+New Process pid(46) created ....
+1.The value of Process Id = 49 | Max GoodNess = 90 | Next = 46 | Goodness = 39| State = 1  
+C1.The value of Process Id = 46 | Max GoodNess = 38 | Next = 49 | Goodness = 90| State = 1  
+MMMMMMMMM1.The value of Process Id = 49 | Max GoodNess = 10 | Next = 48 | Goodness = 38| State = 1  
+1.The value of Process Id = 0 | Max GoodNess = 90 | Next = 46 | Goodness = 0| State = 1  
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC1.The value of Process Id = 46 | Max GoodNess = 100 | Next = 47 | Goodness = 180| State = 1  
+BBBBBBBBBBBBBBBBBBBB1.The value of Process Id = 47 | Max GoodNess = 40 | Next = 49 | Goodness = 100| State = 1  
+MMMMMMMMM1.The value of Process Id = 49 | Max GoodNess = 12 | Next = 48 | Goodness = 40| State = 1  
+1.The value of Process Id = 0 | Max GoodNess = 90 | Next = 46 | Goodness = 0| State = 1  
+CCC1.The value of Process Id = 46 | Max GoodNess = 100 | Next = 47 | Goodness = 180| State = 2  
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBB1.The value of Process Id = 47 | Max GoodNess = 40 | Next = 49 | Goodness = 100| State = 2  
+MMMMMMMM1.The value of Process Id = 49 | Max GoodNess = 13 | Next = 48 | Goodness = 40| State = 1  
+1.The value of Process Id = 0 | Max GoodNess = 20 | Next = 49 | Goodness = 0| State = 1  
+MMMMMMMMM1.The value of Process Id = 49 | Max GoodNess = 14 | Next = 48 | Goodness = 40| State = 1  
+AAAA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 14| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 20 | Next = 49 | Goodness = 0| State = 1  
+MMMMMMMMMM1.The value of Process Id = 49 | Max GoodNess = 10 | Next = 48 | Goodness = 40| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 20 | Next = 49 | Goodness = 0| State = 1  
+MMMMM
+1.The value of Process Id = 49 | Max GoodNess = 10 | Next = 48 | Goodness = 40| State = 2  
+AAAA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AAAA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AAAA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+AA1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 5 | Next = 48 | Goodness = 0| State = 1  
+A
+
+All user processes have completed.
+
+1.The value of Process Id = 48 | Max GoodNess = 0 | Next = 0 | Goodness = 10| State = 2  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+QEMU 2.0.0 monitor - type 'help' for more information
+(qemu) 1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1
+(qemu) .The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 3  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+q[K1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+1.The value of Process Id = 0 | Max GoodNess = 0 | Next = 0 | Goodness = 0| State = 1  
+In New Epoch
+
+
+]0;agupta38@vm19-3:/afs/unity.ncsu.edu/users/a/agupta38/OS/PA1/csc501-lab1/compile[agupta38@vm19-3 compile](vmhost1)$ exit
+exit
+
+Script done on Fri 27 Sep 2019 05:55:39 PM EDT

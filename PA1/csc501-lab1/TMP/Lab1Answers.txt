@@ -1,0 +1,45 @@
+Ans 1 .
+Exponential Distribution scheduler
+
+Pros
+1.Easier Implemenation
+2.Avoids starvation. Though not very equitably scheduled but low priority process does get scheduled avoiding starvation.
+
+Cons
+
+1. Higher the priority of process, lower is the probability of getting it scheduled which may be not be desirable sometimes.
+
+Linux-like scheduler
+
+Pros
+1. Every process gets a definite chance to run during an epoch as per goodness index
+2. The process which gets little time in one epoch are more likely to run in next epoch
+
+Cons
+
+1. Space and Time Complexity are higher as comapred to default and exponential distribution scheduler
+
+
+Xinu Scheduler
+
+
+Pros
+1. Easy Implementatiom
+2. Process with higher priority are scheduled first
+
+Cons
+
+1. Low priority process may get completely starved
+
+
+Ans 2
+
+ 
+Exponential Distribution scheduler-
+Null process is scheduled when there is no other process in ready queue
+
+Xinu scheduler-
+Null process is scheduled when there is no other process in ready queue
+
+Linux-like scheduler-
+when every process has used it's quanta in given epoch
